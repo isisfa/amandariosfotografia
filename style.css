@@ -910,7 +910,7 @@ footer {
         margin-bottom: 1rem;
     }
     .exhibitions__gallery article img {
-        height: 100%;
+        height: auto;
     }
 
 
