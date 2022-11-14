@@ -905,9 +905,10 @@ footer {
     }
 
     .exhibitions__gallery article {
-        width: 100%;
+        width: 90%;
         height: auto;
-        margin-bottom: 1rem;
+        margin: auto;
+        margin-bottom: 1.5rem;
     }
     .exhibitions__gallery article img {
         height: auto;
