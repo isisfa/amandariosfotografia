@@ -1,1 +1,2 @@
-View: <a href="https://isisfa.github.io/amandariosfotografia/">isisfa.github.io/amandariosfotografia/</a>
+View: <a href="https://isisfa.github.io/amandariosfotografia/" target="_blank">isisfa.github.io/amandariosfotografia/</a>
+Technologies: HTML, CSS, Javascript
